@@ -1,6 +1,8 @@
 # lmrob
 MM-type Estimators for Linear Regression Use lmrob (robustbase) With (In) R Software
 
+https://www.youtube.com/watch?v=w1Xy10ds37o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
